@@ -1,7 +1,7 @@
 {
-  "name": "culturestake",
+  "name": "React-Dapp",
   "version": "1.0.0",
-  "description": "CultureStake is a web-based voting system for cultural decision making and investment",
+  "description": "This app is a web-based voting system for cultural decision making and investment",
   "main": "src/server/index.js",
   "scripts": {
     "build": "npm run clear && npm run server:build && npm run client:build",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazaruslabs/culturestake.git"
+    "url": "git+https://github.com/Vudung0519/React-dapp.git"
   },
   "private": true,
   "contributors": [
@@ -38,9 +38,9 @@
   ],
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/lazaruslabs/culturestake/issues"
+    "url": "https://github.com/Vudung0519/React-dapp/issues"
   },
-  "homepage": "https://github.com/lazaruslabs/culturestake#readme",
+  "homepage": "https://github.com/Vudung0519/React-dapp#readme",
   "devDependencies": {
     "@babel/cli": "^7.11.5",
     "@babel/core": "^7.11.5",
